@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Guadarrama Mireles - Web</title>
+    <link>http://victorgu.com/categories/about/index.xml</link>
+    <description>Recent content on Victor Guadarrama Mireles - Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://victorgu.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://victorgu.com/about/</link>
+      <pubDate>Sat, 03 Dec 2016 16:55:22 -0600</pubDate>
+      
+      <guid>http://victorgu.com/about/</guid>
+      <description>&lt;p&gt;Hello, this 0.1 version of my website is deployed on Golang! : ) using Hugo &amp;amp; the beautiful hugo-goa theme. This code is living on Google App engine.&lt;/p&gt;
+
+&lt;p&gt;Salud!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

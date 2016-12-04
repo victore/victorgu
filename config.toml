@@ -1,0 +1,36 @@
+baseurl = "http://victorgu.com/"
+title = "Victor Guadarrama Mireles - Web"
+languageCode = "en-us"
+theme = "hugo-goa"
+author = "Victor Guadarrama"
+
+[params]
+  author = "Victor Guadarrama"
+  authorimage = "vg.jpg"
+  intro = "Fullstack Developer || DT en Canajazz FC"
+  description = "Now @Wachinango. Previously @SinEmbargoMX, @SantanderMX and @IAVE. <br/><br/> \"$ mv README.md please-README.md.\" -@iamdevloper"
+# Date format, used by several themes
+  DateForm = "Mon, Jan 2, 2006"
+  DateFormat = "Mon, Jan 2, 2006"
+
+[params.meta]
+description = "Victor Guadarrama Mireles, Fullstack developer."
+keywords = "victor, guadarrama, mireles, developer, golang, hugo, javascript, ruby, elixir, nodejs, angularjs, reactjs, wachinango, desarrollo, web"
+
+[params.social]
+github = "victore"
+twitter = "victorglu"
+linkedin = "victorgu"
+instagram = "victor13"
+facebook = "nomuyfunk"
+email = "victor.guadarrama3@gmail.com"
+
+[[menu.main]]
+    name = "about"
+    weight = 100
+    url = "/about/"
+
+[params.extra]
+copyright = "© 2016. Victor Guadarrama. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
