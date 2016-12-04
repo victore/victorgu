@@ -14,9 +14,9 @@
       <pubDate>Sat, 03 Dec 2016 16:55:22 -0600</pubDate>
       
       <guid>http://victorgu.com/about/</guid>
-      <description>&lt;p&gt;Hello, this 0.1 version of my website is deployed on Golang! : ) using Hugo &amp;amp; the beautiful hugo-goa theme. This code is living on Google App engine.&lt;/p&gt;
+      <description>&lt;p&gt;Hello, this is the 0.1 version of my website. It&amp;rsquo;s served by Golang using Hugo and the beautiful hugo-goa theme. I choose App Engine to run this web because I want to play with Google Cloud Platform. : )&lt;/p&gt;
 
-&lt;p&gt;Salud!&lt;/p&gt;
+&lt;p&gt;Salute!&lt;/p&gt;
 </description>
     </item>
     

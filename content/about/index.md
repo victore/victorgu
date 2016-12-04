@@ -10,6 +10,7 @@ title = "About"
 showpagemeta = false
 +++
 
-Hello, this 0.1 version of my website is deployed on Golang! : ) using Hugo & the beautiful hugo-goa theme. This code is living on Google App engine.
+Hello, this is the 0.1 version of my website. It's served by Golang using Hugo and the beautiful hugo-goa theme. I choose App Engine to run this web because I want to play with Google Cloud Platform. : )
 
-Salud!
+
+Salute!
